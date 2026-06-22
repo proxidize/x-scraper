@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://proxidize.com/mobile-proxy-pricing/" target="_blank" rel="noopener noreferrer">
-    <img src="https://proxidize.com/wp-content/uploads/2025/10/x.png" alt="Proxidize Logo" width="100%"/>
+    <img src="https://imagedelivery.net/r4caA8hJ3Ww3j8uyC_NNCA/95a9137a-43fd-48d4-7243-983f3f4a3d00/public" alt="Proxidize Logo" width="100%"/>
   </a>
 </div>
 
